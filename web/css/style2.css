@@ -1,0 +1,136 @@
+body {
+    font-family: 'Abril Fatface', cursive;
+    position: relative;
+    background-image: url("https://media-cdn.tripadvisor.com/media/photo-s/0e/aa/b6/43/caption.jpg");
+}
+
+.post {
+    display: none;
+    border: 2px solid #FFE3E1;
+    border-radius: 10px;
+}
+.post:hover{
+    border: 2px solid #dc3545;
+}
+.btn {
+    font-family: 'Abril Fatface', cursive;
+}
+
+.bg-dark {
+    background-color: transparent;
+}
+
+.form-group {
+    font-family: 'Oswald', sans-serif;
+}
+
+.btn btn-dark {
+    font-family: 'Oswald', sans-serif;
+}
+.display-4{
+    font-family: "Nothing You Could Do";
+    color: #FFE3E1;
+}
+.text {
+    position: relative;
+    color: #FFE3E1;
+}
+
+.water {
+    font-family: "Nothing You Could Do";
+}
+
+.question {
+    font-family: 'Abril Fatface', cursive;
+    color: #fff8f8;
+}
+.links {
+    position: absolute;
+    background-color: transparent;
+    width: 100%;
+    height: 100%;
+    font-family: "Nothing You Could Do"
+}
+.card {
+    background-color: transparent ;
+}
+.linksall {
+    font-family: 'Nothing You Could Do';
+}
+
+.btn-link {
+    color: #ffe3e1;
+    hov: #ffe3e1;
+}
+.row {
+    padding-top: 20px;
+}
+
+.titleMe {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    font-family: 'Abril Fatface', cursive;
+}
+
+.lead {
+    font-family: "Nothing You Could Do";
+    color: #FFE3E1;
+
+}
+
+.text {
+    font-family: 'Oswald', sans-serif;
+    color: #FFE3E1;
+}
+
+.row {
+    width: 100%;
+    height: 100%;
+    font-family: 'Oswald', sans-serif;
+    color: #FFE3E1;
+}
+
+.btn-dark {
+    background-color: #000000;
+}
+
+.navbar {
+    font-family: 'Abril Fatface', cursive;
+    position: relative;
+    color: #FFE3E1;
+
+}
+.tt{
+    font-family: "Nothing You Could Do";
+    color: #FFE3E1;
+}
+.an{
+    font-family: 'Oswald', sans-serif;
+    color: #FFE3E1;
+}
+.display-4{
+    font-family: "Abril Fatface";
+    color: #FFE3E1;
+}
+.question {
+    font-family: 'Abril Fatface', cursive;
+    color: #FFE3E1;
+
+}
+#pink {
+    color: #FFE3E1;
+}
+#pink2 {
+    color: #FFE3E1;
+}
+#pink3 {
+    color: #FFE3E1;
+}
+#pink4 {
+    color: #FFE3E1;
+}
+#pink5 {
+    color: #FFE3E1;
+}
+
